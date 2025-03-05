@@ -1,4 +1,4 @@
-# cgc-web
+# 
 
 ## Project setup
 ```
@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 页面静态网址链接
+[Configuration Reference](https://amotys.github.io/cgc-web/#/).
